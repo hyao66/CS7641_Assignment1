@@ -7,7 +7,7 @@ The repository contains the following files:
 2. bank_marketing.csv  (a copy of the first dataset explored)
 3. customer_segmentation.csv (a copy of the second dataset explored)
 4. Assignment1_hyao66_bankmarketing.ipynb (notebook for the code and analysis done on the first dataset)
-5. Assgnment1_hyao66_CustomerSegmentation.ipynb (notebook for the code and analysis done on the second dataset)
+5. Assginment1_hyao66_CustomerSegmentation.ipynb (notebook for the code and analysis done on the second dataset)
 
 The two datasets used in this assignment are:
 1. Bank Marketing Dataset - bank_marketing.csv
