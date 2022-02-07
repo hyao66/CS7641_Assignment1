@@ -10,7 +10,7 @@ The repository contains the following files:
 5. Assgnment1_hyao66_CustomerSegmentation.ipynb (notebook for the code and analysis done on the second dataset)
 
 The two datasets used in this assignment are:
-1. Bank Marketing Dataset - bank_marketing.csv\
+1. Bank Marketing Dataset - bank_marketing.csv
     This dataset can also be found from the below URL: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 2. Customer Segmentation Dataset - customer_segmentation.csv
